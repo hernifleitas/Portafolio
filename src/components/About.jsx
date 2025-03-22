@@ -14,10 +14,6 @@ export const About = () => {
         <p>
           Tengo experiencia creando sitios web dinámicos, aplicaciones de una sola página (SPA) y todo tipo de proyectos que buscan brindar valor a los usuarios.
         </p>
-
-        <p>
-         En mi tiempo libre, me gusta estudiar Inglés, entrenar Kick Boxing y escuchar Musica.
-        </p>
         <div className="about-img-container">
           <img 
             src={miImagen} 
