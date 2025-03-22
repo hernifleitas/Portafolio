@@ -12,7 +12,7 @@ export const Contact = () => {
         <a href="https://www.facebook.com/hernan.fleitas.338" className="social-icon" target="_blank" rel="noopener noreferrer">
           <FaFacebook />
         </a>
-        <a href="https://wa.me/1158286890?text=Hola,%20Hernan%20Fleitas%20te%20quiero%20contactar" className="social-icon" target="_blank" rel="noopener noreferrer">
+        <a href="https://wa.me/+5491158286890?text=Hola,%20Hernan%20Fleitas%20te%20quiero%20contactar" className="social-icon" target="_blank" rel="noopener noreferrer">
           <FaWhatsapp />
         </a>
         <a href="https://www.linkedin.com/in/hernan-fleitas-250988236/" className="social-icon" target="_blank" rel="noopener noreferrer">
